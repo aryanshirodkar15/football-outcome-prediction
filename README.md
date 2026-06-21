@@ -37,8 +37,8 @@ The model uses recent form without leaking the current match result:
 ## Run locally
 
 ```bash
-git clone REPOSITORY_URL
-cd ucl-prediction
+git clone https://github.com/aryanshirodkar15/football-outcome-prediction.git
+cd football-outcome-prediction
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
